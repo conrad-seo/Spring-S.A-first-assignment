@@ -6,3 +6,4 @@ interface BusFunction {
     void oilup(int gas);   //기름양
 }
 
+
