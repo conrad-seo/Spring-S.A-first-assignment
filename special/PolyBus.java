@@ -1,6 +1,7 @@
 package special;
 
 public class PolyBus {
+
     public static void main(String[] args) {
         System.out.println("버스 생산 시작");
         publictransport bus1 = new publictransport();
