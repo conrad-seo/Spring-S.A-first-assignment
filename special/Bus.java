@@ -45,4 +45,3 @@ class publictransport implements BusFunction{
     }
 
 }
-
